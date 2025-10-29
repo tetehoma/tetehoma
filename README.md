@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Estefani and my nickname is "Tete"!
 
-- 🔭 I’m currently live in Japan, in transition of career to TI learning Programation with BootCamp Alura about Devenvolviment Mobile.
+- 🔭 I’m currently live in Japan, in transition of career to TI learning Programation with BootCamp Alura about Desenvolviment Mobile.
 - 🌱 I’m currently learning self study in Programation, Japanese and English.
 - 👯 I’m looking to collaborate on my publics projects.
 - 🤔 I’m looking for help with develop a new career in Japan.
