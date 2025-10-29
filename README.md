@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning self study in Programation, Japanese and English.
 - 👯 I’m looking to collaborate on my publics projects.
 - 🤔 I’m looking for help with develop a new career in Japan.
-- 📫 How to reach me: 
+- 📫 How to reach me: www.linkedin.com/in/homa-estefani-morais-31722a241
 - ⚡ Fun fact: I love pizza
 -->
 ## I'm learning
